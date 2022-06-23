@@ -96,7 +96,7 @@ function linear_fit_full(xf, yf, yferr)
 end
 
 ###
-using Infiltrator
+# using Infiltrator
 
 """
 Reference:
